@@ -31,40 +31,32 @@ In this course, I:
 
 ## 🚀 Weekly Breakdown & Project Steps
 
-Below is how I structured my work over the four weeks, combining the syllabus and your submitted policies, justifications, and procedures.
-
 ---
 
 ### Week 1 – Change Management & Cryptography Foundations
 
 - Learned the importance of Change Management and SOPs (Standard Operating Procedures)
 - Drafted:
-  - **Change Control Management Policy**  
-    - Established governance for software, hardware, database, and network changes  
+  - **[Change Control Management Policy](BrunoDaphnie_ChangeControlManagenet_Policy.pdf)**
+    - Governance for software, hardware, database, and network changes
     - Defined Change Advisory Board (CAB) roles
     - Included emergency change protocols and rollback plans
 - Began identifying cryptography and encryption controls for organizational data protection
-
-**Key Document:**
-- Change Control Management Policy – Version 1.0
 
 ---
 
 ### Week 2 – Security Controls, Policies & Procedures
 
-- Developed detailed security policies and procedures:
-  - **Access Control Policy (AC-01):**  
-    - Defined roles, responsibilities, and controls for managing system access  
-    - Emphasized least privilege principles
-  - **Account Management Policy (AC-02):**  
-    - Outlined account provisioning, auditing, and termination processes
-- Drafted justifications for controls based on case studies and organizational risks
-- Developed initial drafts of the Security Program Plan
+- Developed:
+  - **[Access Control Policy (AC-01)](BrunoDaphnie_AC-01_Policy_and_Procedures.pdf)**
+  - **[Account Management Policy (AC-02)](BrunoDaphnie_AC-02_Account_Management.pdf)**
+- Documented:
+  - Roles, responsibilities, and least privilege principles
+  - Account provisioning, auditing, and termination processes
+- Justified controls in relation to organizational risks
 
-**Key Documents:**
-- AC-01 Policy and Procedures – Version 1.1
-- AC-02 Account Management – Version 1.2
-- Week 2 Justifications PDF
+**Key Document:**
+- [Week 2 Justification](BrunoDaphnie_Justification_week2.pdf)
 
 ---
 
@@ -74,54 +66,44 @@ Below is how I structured my work over the four weeks, combining the syllabus an
   - Roles & responsibilities of team members
   - Identity Access Management (IAM) policies
 - Developed:
-  - **New Account Creation Procedure:**
-    - Documented step-by-step process for creating accounts internally and externally
-    - Integrated multi-factor authentication (MFA)
+  - **[New Account Creation Procedure](BrunoDaphnie_NewAccountCreation_Procedure.pdf)**
 - Justified cryptographic controls:
   - SC-13 Cryptographic Protection
   - SC-28 Protection of Information at Rest
   - SC-8 Transmission Confidentiality
   - SC-12 Cryptographic Key Management
   - IA-5 Authenticator Management
-- Connected controls to real-world scenarios like e-commerce security and PCI compliance
 
-**Key Documents:**
-- New Account Creation Procedure – Version 1.3
-- Week 3 Justification PDF
+**Key Document:**
+- [Week 3 Justification](BrunoDaphnie_justification_week3.pdf)
 
 ---
 
 ### Week 4 – Security Policies & Holistic Security Plan
 
-- Developed organizational security policies for:
-  - **Password Policy:**
-    - Defined complexity, expiration, and reuse limits
-    - Mandated periodic password changes and strong composition rules
-  - **Security Awareness Training Policy:**
-    - Established annual training requirements
-    - Included role-based training and simulated exercises
-  - **PCI Policy:**
-    - Defined requirements for protecting cardholder data
-    - Outlined compliance with PCI DSS standards
-- Updated and refined the Security Program Plan, integrating all developed policies and procedures
-
-**Key Documents:**
-- Password Policy – Version 1.1
-- Security Awareness Training Policy – Version 1.0
-- PCI Policy – Version 1.0
+- Developed:
+  - **[Password Policy](BrunoDaphnie_Pasword_Policy.pdf)**
+  - **[Password Procedure](BrunoDaphnie_Password_Procedure.pdf)**
+  - **[Password Standard](BrunoDaphnie_Password_Standard.pdf)**
+  - **[Security Awareness Training Policy](BrunoDaphnie_Security_Awareness_Training_Policy.pdf)**
+- Updated and refined the Security Program Plan integrating all developed policies and procedures
 
 ---
 
 ## 📚 Policies & Procedures Developed
 
-- [Change Control Management Policy](BrunoDaphnie_ChangeControlManagmenet_Policy.pdf)
+Access my documents here:
+
+- [Change Control Management Policy](BrunoDaphnie_ChangeControlManagenet_Policy.pdf)
 - [Access Control Policy (AC-01)](BrunoDaphnie_AC-01_Policy_and_Procedures.pdf)
 - [Account Management Policy (AC-02)](BrunoDaphnie_AC-02_Account_Management.pdf)
-- [Password Policy](BrunoDaphnie_Password_Policy.pdf)
+- [Password Policy](BrunoDaphnie_Pasword_Policy.pdf)
+- [Password Procedure](BrunoDaphnie_Password_Procedure.pdf)
+- [Password Standard](BrunoDaphnie_Password_Standard.pdf)
 - [Security Awareness Training Policy](BrunoDaphnie_Security_Awareness_Training_Policy.pdf)
 - [PCI Policy](group5_pci_policy.docx)
 - [New Account Creation Procedure](BrunoDaphnie_NewAccountCreation_Procedure.pdf)
-- [Week 2 Justification](BrunoDaphnie_justification_week2.pdf)
+- [Week 2 Justification](BrunoDaphnie_Justification_week2.pdf)
 - [Week 3 Justification](BrunoDaphnie_justification_week3.pdf)
 
 ---
