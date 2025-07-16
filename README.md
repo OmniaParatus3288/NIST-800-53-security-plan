@@ -8,24 +8,24 @@ Welcome to my Project & Portfolio IV repository! This project documents my work 
 
 In this course, I:
 
-✅ Drafted a written security plan, including policies for access controls, change management, and data protection  
-✅ Identified roles, responsibilities, and escalation processes for security incidents  
-✅ Created policies and procedures compliant with industry frameworks (e.g., NIST 800-53, PCI DSS)  
-✅ Developed documentation to support organizational security programs  
-✅ Practiced critical thinking and justification for cybersecurity decisions  
-✅ Explored the strategic and operational components of cybersecurity programs
+* Drafted a written security plan, including policies for access controls, change management, and data protection.
+* Identified roles, responsibilities, and escalation processes for security incidents.
+* Created policies and procedures compliant with industry frameworks (e.g., NIST 800-53).
+* Developed documentation to support organizational security programs.
+* Practiced critical thinking and justification for cybersecurity decisions.
+* Explored the strategic and operational components of cybersecurity programs.
 
 ---
 
 ## 🛠️ Technologies & Frameworks Used
 
-- **NIST 800-53 Rev. 5 Controls**
-- **Microsoft Office 365** for policy documentation
-- **Policy Development Tools:** Word, PDF editors
-- **Security Standards:** PCI DSS, COPPA
-- **Operating Systems:** Windows Server, Linux (Ubuntu)
-- **Virtualization:** ProxMox, VMware
-- **Security Domains:** Access Control, Cryptography, Change Management, Security Awareness
+* **NIST 800-53 Rev. 5 Controls**
+* **Microsoft Office 365** (Word, PowerPoint) or equivalent
+* **Policy Development Tools:** Word, PDF editors
+* **Security Standards:** PCI DSS, COPPA
+* **Operating Systems:** Windows Server, Linux (Ubuntu,Kali,Rocky)
+* **Virtualization:** ProxMox, VMware
+* **Security Domains:** Access Control, Cryptography, Change Management, Security Awareness
 
 ---
 
@@ -33,60 +33,66 @@ In this course, I:
 
 ---
 
-### Week 1 – Change Management & Cryptography Foundations
+### Week 1 – Security Controls, Policies & Plan Foundation
 
-- Learned the importance of Change Management and SOPs (Standard Operating Procedures)
-- Drafted:
-  - **[Change Control Management Policy](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/BrunoDaphnie_ChangeControlManagenet_Policy.pdf)**
-    - Governance for software, hardware, database, and network changes
-    - Defined Change Advisory Board (CAB) roles
-    - Included emergency change protocols and rollback plans
-- Began identifying cryptography and encryption controls for organizational data protection
+* Learned the basis of the Security Plan Foundation, Security Control & Privacy, and the Security Plan.
+* Worked in groups to identify security controls for a fictitious company.
+* Created security policies based on identified controls and transferred appropriate information to the Security Plan.
+* **Themes:** Security Controls & Privacy, Security Policies, Security Plan, Teamwork
 
 ---
 
-### Week 2 – Security Controls, Policies & Procedures
+### Week 2 – Identity & Access Management, Roles & Responsibilities
 
-- Developed:
-  - **[Access Control Policy (AC-01)](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/BrunoDaphnie_AC-01_Policy_and_Procedures.pdf)**
-  - **[Account Management Policy (AC-02)](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/BrunoDaphnie_AC-02_Account_Management.pdf)**
-- Documented:
-  - Roles, responsibilities, and least privilege principles
-  - Account provisioning, auditing, and termination processes
-- Justified controls in relation to organizational risks
-
-**Key Document:**
-- [Week 2 Justification](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/BrunoDaphnie_Justification_week2.pdf)
-
----
-
-### Week 3 – Identity & Access Management, Cryptography Policies
-
-- Focused on:
-  - Roles & responsibilities of team members
-  - Identity Access Management (IAM) policies
-- Developed:
-  - **[New Account Creation Procedure](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/BrunoDaphnie_NewAccountCreation_Procedure.pdf)**
-- Justified cryptographic controls:
-  - SC-13 Cryptographic Protection
-  - SC-28 Protection of Information at Rest
-  - SC-8 Transmission Confidentiality
-  - SC-12 Cryptographic Key Management
-  - IA-5 Authenticator Management
-
-**Key Document:**
-- [Week 3 Justification](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/BrunoDaphnie_justification_week3.pdf)
+* Learned the importance of Roles and Responsibilities of team members and how frameworks add value to Security Policies and the Security Plan.
+* Built upon Week 1 concepts to select Identity Access Controls for a fictitious company.
+* Created Identity Access Management policies based on these controls and updated the Security Plan.
+* **Developed:**
+    * **[Access Control Policy (AC-01)](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_AC-01_Policy_and_Procedures.pdf)**
+    * **[Account Management Policy (AC-02)](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_AC-02_Account_Management.pdf)**
+* **Documented:**
+    * Roles, responsibilities, and least privilege principles.
+    * Account provisioning, auditing, and termination processes.
+* **Key Document:**
+    * [Week 2 Justification](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_justification_week3.pdf) (Assuming this is the correct justification document for Week 2 based on the file names, though the original text labels it "Week 2 Justification" and the link points to a "week3.pdf" - it's a common practice to keep them together if one justification covers multiple weeks, but it's important to clarify if this is indeed the intended file for Week 2's justification.)
 
 ---
 
-### Week 4 – Security Policies & Holistic Security Plan
+### Week 3 – Change Management & Cryptography Foundations
 
-- Developed:
-  - **[Password Policy](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/BrunoDaphnie_Pasword_Policy.pdf)**
-  - **[Password Procedure](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/BrunoDaphnie_Password_Procedure.pdf)**
-  - **[Password Standard](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/BrunoDaphnie_Password_Standard.pdf)**
-  - **[Security Awareness Training Policy](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/BrunoDaphnie_Security_Awareness_Training_Policy.pdf)**
-- Updated and refined the Security Program Plan integrating all developed policies and procedures
+* Learned the importance of Change Management and Control and Standard Operating Procedures (SOP).
+* Built upon concepts from previous weeks to identify Cryptography and Encryption controls.
+* Created policies based on these controls and an SOP, updating the Security Plan.
+* **Drafted:**
+    * **[Change Control Management Policy](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_ChangeControlManagenet_Policy.pdf)**
+        * Governance for software, hardware, database, and network changes
+        * Defined Change Advisory Board (CAB) roles
+        * Included emergency change protocols and rollback plans
+    * **[New Account Creation Procedure](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_NewAccountCreation_Procedure.pdf)**
+* **Justified cryptographic controls:**
+    * SC-13 Cryptographic Protection
+    * SC-28 Protection of Information at Rest
+    * SC-8 Transmission Confidentiality
+    * SC-12 Cryptographic Key Management
+    * IA-5 Authenticator Management
+* **Themes:** Cryptography, Change Management, Standard Operating Procedures (SOP), Teamwork
+* **Key Document:**
+    * [Week 3 Justification](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_justification_week3.pdf)
+
+---
+
+### Week 4 – Standards, Procedures & Holistic Security Plan Integration
+
+* Learned the difference between Standards and Procedures as strategic and operational items of a Security Program.
+* Created a Password Standard and a Password Procedure.
+* Utilized learned information to ensure the Security Plan contains all developed Strategic and Operational Items.
+* **Developed:**
+    * **[Password Policy](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_Password_Policy.pdf)**
+    * **[Password Procedure](https://github.iaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_Password_Procedure.pdf)**
+    * **[Password Standard](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_Password_Standard.pdf)**
+    * **[Security Awareness Training Policy](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_Security_Awareness_Training_Policy.pdf)**
+* Updated and refined the Security Program Plan integrating all developed policies and procedures.
+* **Themes:** Standards, Procedures (SOP), Security Policies, Security Plans, Teamwork
 
 ---
 
@@ -94,29 +100,25 @@ In this course, I:
 
 Access my documents here:
 
-- [Change Control Management Policy](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/BrunoDaphnie_ChangeControlManagenet_Policy.pdf)
-- [Access Control Policy (AC-01)](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/BrunoDaphnie_AC-01_Policy_and_Procedures.pdf)
-- [Account Management Policy (AC-02)](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/BrunoDaphnie_AC-02_Account_Management.pdf)
-- [Password Policy](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/BrunoDaphnie_Pasword_Policy.pdf)
-- [Password Procedure](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/BrunoDaphnie_Password_Procedure.pdf)
-- [Password Standard](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/BrunoDaphnie_Password_Standard.pdf)
-- [Security Awareness Training Policy](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/BrunoDaphnie_Security_Awareness_Training_Policy.pdf)
-- [PCI Policy](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/group5_pci_policy.docx)
-- [New Account Creation Procedure](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/BrunoDaphnie_NewAccountCreation_Procedure.pdf)
-- [Week 2 Justification](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/BrunoDaphnie_Justification_week2.pdf)
-- [Week 3 Justification](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/BrunoDaphnie_justification_week3.pdf)
+* [Change Control Management Policy](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_ChangeControlManagenet_Policy.pdf)
+* [Access Control Policy (AC-01)](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_AC-01_Policy_and_Procedures.pdf)
+* [Account Management Policy (AC-02)](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_AC-02_Account_Management.pdf)
+* [Password Policy](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_Password_Policy.pdf)
+* [Password Procedure](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_Password_Procedure.pdf)
+* [Password Standard](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_Password_Standard.pdf)
+* [Security Awareness Training Policy](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_Security_Awareness_Training_Policy.pdf)
+* [New Account Creation Procedure](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_NewAccountCreation_Procedure.pdf)
+* [Week 2 Justification](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_justification_week3.pdf)
+* [Week 3 Justification](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_justification_week3.pdf)
 
 ---
 
 ## 🔐 Security Highlights
 
-- Developed policies aligned with:
-  - NIST 800-53 Rev. 5
-  - PCI DSS
-  - COPPA compliance principles
-- Applied Defense-in-Depth strategies across policies
-- Created comprehensive audit and documentation processes
-- Wrote justifications connecting policies to real-world cybersecurity scenarios
+* Developed policies aligned with NIST 800-53 Rev. 5.
+* Applied Defense-in-Depth strategies across policies.
+* Created comprehensive audit and documentation processes.
+* Wrote justifications connecting policies to real-world cybersecurity scenarios.
 
 ---
 
