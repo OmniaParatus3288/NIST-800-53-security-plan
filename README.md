@@ -37,7 +37,7 @@ In this course, I:
 
 - Learned the importance of Change Management and SOPs (Standard Operating Procedures)
 - Drafted:
-  - **[Change Control Management Policy](BrunoDaphnie_ChangeControlManagenet_Policy.pdf)**
+  - **[Change Control Management Policy](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/BrunoDaphnie_ChangeControlManagenet_Policy.pdf)**
     - Governance for software, hardware, database, and network changes
     - Defined Change Advisory Board (CAB) roles
     - Included emergency change protocols and rollback plans
@@ -48,15 +48,15 @@ In this course, I:
 ### Week 2 – Security Controls, Policies & Procedures
 
 - Developed:
-  - **[Access Control Policy (AC-01)](BrunoDaphnie_AC-01_Policy_and_Procedures.pdf)**
-  - **[Account Management Policy (AC-02)](BrunoDaphnie_AC-02_Account_Management.pdf)**
+  - **[Access Control Policy (AC-01)](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/BrunoDaphnie_AC-01_Policy_and_Procedures.pdf)**
+  - **[Account Management Policy (AC-02)](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/BrunoDaphnie_AC-02_Account_Management.pdf)**
 - Documented:
   - Roles, responsibilities, and least privilege principles
   - Account provisioning, auditing, and termination processes
 - Justified controls in relation to organizational risks
 
 **Key Document:**
-- [Week 2 Justification](BrunoDaphnie_Justification_week2.pdf)
+- [Week 2 Justification](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/BrunoDaphnie_Justification_week2.pdf)
 
 ---
 
@@ -66,7 +66,7 @@ In this course, I:
   - Roles & responsibilities of team members
   - Identity Access Management (IAM) policies
 - Developed:
-  - **[New Account Creation Procedure](BrunoDaphnie_NewAccountCreation_Procedure.pdf)**
+  - **[New Account Creation Procedure](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/BrunoDaphnie_NewAccountCreation_Procedure.pdf)**
 - Justified cryptographic controls:
   - SC-13 Cryptographic Protection
   - SC-28 Protection of Information at Rest
@@ -75,17 +75,17 @@ In this course, I:
   - IA-5 Authenticator Management
 
 **Key Document:**
-- [Week 3 Justification](BrunoDaphnie_justification_week3.pdf)
+- [Week 3 Justification](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/BrunoDaphnie_justification_week3.pdf)
 
 ---
 
 ### Week 4 – Security Policies & Holistic Security Plan
 
 - Developed:
-  - **[Password Policy](BrunoDaphnie_Pasword_Policy.pdf)**
-  - **[Password Procedure](BrunoDaphnie_Password_Procedure.pdf)**
-  - **[Password Standard](BrunoDaphnie_Password_Standard.pdf)**
-  - **[Security Awareness Training Policy](BrunoDaphnie_Security_Awareness_Training_Policy.pdf)**
+  - **[Password Policy](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/BrunoDaphnie_Pasword_Policy.pdf)**
+  - **[Password Procedure](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/BrunoDaphnie_Password_Procedure.pdf)**
+  - **[Password Standard](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/BrunoDaphnie_Password_Standard.pdf)**
+  - **[Security Awareness Training Policy](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/BrunoDaphnie_Security_Awareness_Training_Policy.pdf)**
 - Updated and refined the Security Program Plan integrating all developed policies and procedures
 
 ---
@@ -94,17 +94,17 @@ In this course, I:
 
 Access my documents here:
 
-- [Change Control Management Policy](BrunoDaphnie_ChangeControlManagenet_Policy.pdf)
-- [Access Control Policy (AC-01)](BrunoDaphnie_AC-01_Policy_and_Procedures.pdf)
-- [Account Management Policy (AC-02)](BrunoDaphnie_AC-02_Account_Management.pdf)
-- [Password Policy](BrunoDaphnie_Pasword_Policy.pdf)
-- [Password Procedure](BrunoDaphnie_Password_Procedure.pdf)
-- [Password Standard](BrunoDaphnie_Password_Standard.pdf)
-- [Security Awareness Training Policy](BrunoDaphnie_Security_Awareness_Training_Policy.pdf)
-- [PCI Policy](group5_pci_policy.docx)
-- [New Account Creation Procedure](BrunoDaphnie_NewAccountCreation_Procedure.pdf)
-- [Week 2 Justification](BrunoDaphnie_Justification_week2.pdf)
-- [Week 3 Justification](BrunoDaphnie_justification_week3.pdf)
+- [Change Control Management Policy](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/BrunoDaphnie_ChangeControlManagenet_Policy.pdf)
+- [Access Control Policy (AC-01)](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/BrunoDaphnie_AC-01_Policy_and_Procedures.pdf)
+- [Account Management Policy (AC-02)](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/BrunoDaphnie_AC-02_Account_Management.pdf)
+- [Password Policy](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/BrunoDaphnie_Pasword_Policy.pdf)
+- [Password Procedure](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/BrunoDaphnie_Password_Procedure.pdf)
+- [Password Standard](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/BrunoDaphnie_Password_Standard.pdf)
+- [Security Awareness Training Policy](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/BrunoDaphnie_Security_Awareness_Training_Policy.pdf)
+- [PCI Policy](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/group5_pci_policy.docx)
+- [New Account Creation Procedure](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/BrunoDaphnie_NewAccountCreation_Procedure.pdf)
+- [Week 2 Justification](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/BrunoDaphnie_Justification_week2.pdf)
+- [Week 3 Justification](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/BrunoDaphnie_justification_week3.pdf)
 
 ---
 
