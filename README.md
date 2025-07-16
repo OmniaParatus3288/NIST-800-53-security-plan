@@ -23,15 +23,13 @@ In this course, I:
 * **Microsoft Office 365** (Word, PowerPoint) or equivalent
 * **Policy Development Tools:** Word, PDF editors
 * **Security Standards:** PCI DSS, COPPA
-* **Operating Systems:** Windows Server, Linux (Ubuntu,Kali,Rocky)
+* **Operating Systems:** Windows Server, Linux (Ubuntu, Kali, Rocky)
 * **Virtualization:** ProxMox, VMware
 * **Security Domains:** Access Control, Cryptography, Change Management, Security Awareness
 
 ---
 
 ## 🚀 Weekly Breakdown & Project Steps
-
----
 
 ### Week 1 – Security Controls, Policies & Plan Foundation
 
@@ -48,13 +46,13 @@ In this course, I:
 * Built upon Week 1 concepts to select Identity Access Controls for a fictitious company.
 * Created Identity Access Management policies based on these controls and updated the Security Plan.
 * **Developed:**
-    * **[Access Control Policy (AC-01)](https://github.com/OmniaParatus3288/Project-Portfolio-IV/FILES/BrunoDaphnie_AC-01_Policy_and_Procedures.pdf)**
-    * **[Account Management Policy (AC-02)](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_AC-02_Account_Management.pdf)**
+  * [Access Control Policy (AC-01)](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_AC-01_Policy_and_Procedures.pdf)
+  * [Account Management Policy (AC-02)](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_AC-02_Account_Management.pdf)
 * **Documented:**
-    * Roles, responsibilities, and least privilege principles.
-    * Account provisioning, auditing, and termination processes.
+  * Roles, responsibilities, and least privilege principles.
+  * Account provisioning, auditing, and termination processes.
 * **Key Document:**
-    * [Week 2 Justification](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_justification_week3.pdf) (Assuming this is the correct justification document for Week 2 based on the file names, though the original text labels it "Week 2 Justification" and the link points to a "week3.pdf" - it's a common practice to keep them together if one justification covers multiple weeks, but it's important to clarify if this is indeed the intended file for Week 2's justification.)
+  * [Week 2 Justification](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_justification_week3.pdf)
 
 ---
 
@@ -64,20 +62,17 @@ In this course, I:
 * Built upon concepts from previous weeks to identify Cryptography and Encryption controls.
 * Created policies based on these controls and an SOP, updating the Security Plan.
 * **Drafted:**
-    * **[Change Control Management Policy](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_ChangeControlManagenet_Policy.pdf)**
-        * Governance for software, hardware, database, and network changes
-        * Defined Change Advisory Board (CAB) roles
-        * Included emergency change protocols and rollback plans
-    * **[New Account Creation Procedure](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_NewAccountCreation_Procedure.pdf)**
+  * [Change Control Management Policy](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_ChangeControlManagenet_Policy.pdf)
+  * [New Account Creation Procedure](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_NewAccountCreation_Procedure.pdf)
 * **Justified cryptographic controls:**
-    * SC-13 Cryptographic Protection
-    * SC-28 Protection of Information at Rest
-    * SC-8 Transmission Confidentiality
-    * SC-12 Cryptographic Key Management
-    * IA-5 Authenticator Management
+  * SC-13 Cryptographic Protection
+  * SC-28 Protection of Information at Rest
+  * SC-8 Transmission Confidentiality
+  * SC-12 Cryptographic Key Management
+  * IA-5 Authenticator Management
 * **Themes:** Cryptography, Change Management, Standard Operating Procedures (SOP), Teamwork
 * **Key Document:**
-    * [Week 3 Justification](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_justification_week3.pdf)
+  * [Week 3 Justification](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_justification_week3.pdf)
 
 ---
 
@@ -87,10 +82,10 @@ In this course, I:
 * Created a Password Standard and a Password Procedure.
 * Utilized learned information to ensure the Security Plan contains all developed Strategic and Operational Items.
 * **Developed:**
-    * **[Password Policy](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_Password_Policy.pdf)**
-    * **[Password Procedure](https://github.iaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_Password_Procedure.pdf)**
-    * **[Password Standard](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_Password_Standard.pdf)**
-    * **[Security Awareness Training Policy](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_Security_Awareness_Training_Policy.pdf)**
+  * [Password Policy](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_Password_Policy.pdf)
+  * [Password Procedure](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_Password_Procedure.pdf)
+  * [Password Standard](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_Password_Standard.pdf)
+  * [Security Awareness Training Policy](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_Security_Awareness_Training_Policy.pdf)
 * Updated and refined the Security Program Plan integrating all developed policies and procedures.
 * **Themes:** Standards, Procedures (SOP), Security Policies, Security Plans, Teamwork
 
@@ -100,14 +95,14 @@ In this course, I:
 
 Access my documents here:
 
-* [Change Control Management Policy](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_ChangeControlManagenet_Policy.pdf)
 * [Access Control Policy (AC-01)](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_AC-01_Policy_and_Procedures.pdf)
 * [Account Management Policy (AC-02)](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_AC-02_Account_Management.pdf)
+* [Change Control Management Policy](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_ChangeControlManagenet_Policy.pdf)
+* [New Account Creation Procedure](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_NewAccountCreation_Procedure.pdf)
 * [Password Policy](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_Password_Policy.pdf)
 * [Password Procedure](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_Password_Procedure.pdf)
 * [Password Standard](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_Password_Standard.pdf)
 * [Security Awareness Training Policy](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_Security_Awareness_Training_Policy.pdf)
-* [New Account Creation Procedure](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_NewAccountCreation_Procedure.pdf)
 * [Week 2 Justification](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_justification_week3.pdf)
 * [Week 3 Justification](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_justification_week3.pdf)
 
