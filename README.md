@@ -47,7 +47,6 @@ In this course, I:
 * **Developed:**  
   * [Access Control Policy (AC‑01)](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/FILES/BrunoDaphnie_AC-01_Policy_and_Procedures.pdf)  
   * [Account Management Policy (AC‑02)](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/FILES/BrunoDaphnie_AC-02_Account_Management.pdf)  
-* **Documented:** Roles, responsibilities, least‑privilege models, and account lifecycle processes.  
 * **Key Document:**  
   * [Week 2 Justification](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/FILES/BrunoDaphnie_justification_week3.pdf)  
 
@@ -58,9 +57,8 @@ In this course, I:
 * Covered Change Management controls and Standard Operating Procedures (SOPs).  
 * Integrated cryptographic encryption controls for data in transit and at rest.  
 * **Drafted:**  
-  * [Change Control Management Policy](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/FILES/BrunoDaphnie_ChangeControlManagenet_Policy.pdf)  
+  * [Change Control Management Policy](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/FILES/BrunoDaphnie_ChangeControlManagmenet_Policy.pdf)  
   * [New Account Creation Procedure](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/FILES/BrunoDaphnie_NewAccountCreation_Procedure.pdf)  
-* **Justified cryptographic controls:** SC‑8, SC‑12, SC‑13, SC‑28, IA‑5.  
 * **Themes:** Change Management, Cryptography, SOPs, Teamwork  
 * **Key Document:**  
   * [Week 3 Justification](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/FILES/BrunoDaphnie_justification_week3.pdf)  
@@ -75,8 +73,7 @@ In this course, I:
   * [Password Policy](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/FILES/BrunoDaphnie_Pasword_Policy.pdf)  
   * [Password Procedure](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/FILES/BrunoDaphnie_Password_Procedure.pdf)  
   * [Password Standard](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/FILES/BrunoDaphnie_Password_Standard.pdf)  
-  * [Security Awareness Training Policy](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/FILES/BrunoDaphnie_Security_Awareness_Training_Policy.pdf)  
-* Fully integrated all documents into the formal Security Program Plan.  
+  * [Security Awareness Training Policy](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/FILES/BrunoDaphnie_Security%20Awareness%20Training%20Policy.pdf)  
 * **Themes:** Standards, Procedures, Security Policies, Security Plans, Teamwork  
 
 ---
@@ -87,16 +84,15 @@ Access all project files here:
 
 * [Access Control Policy (AC‑01)](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/FILES/BrunoDaphnie_AC-01_Policy_and_Procedures.pdf)  
 * [Account Management Policy (AC‑02)](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/FILES/BrunoDaphnie_AC-02_Account_Management.pdf)  
-* [Change Control Management Policy](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/FILES/BrunoDaphnie_ChangeControlManagenet_Policy.pdf)  
+* [Change Control Management Policy](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/FILES/BrunoDaphnie_ChangeControlManagmenet_Policy.pdf)  
 * [New Account Creation Procedure](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/FILES/BrunoDaphnie_NewAccountCreation_Procedure.pdf)  
 * [Password Policy](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/FILES/BrunoDaphnie_Pasword_Policy.pdf)  
 * [Password Procedure](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/FILES/BrunoDaphnie_Password_Procedure.pdf)  
 * [Password Standard](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/FILES/BrunoDaphnie_Password_Standard.pdf)  
-* [Security Awareness Training Policy](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/FILES/BrunoDaphnie_Security_Awareness_Training_Policy.pdf)  
-* [Week 2 Justification](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/FILES/BrunoDaphnie_justification_week3.pdf)  
-* [Week 3 Justification](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/FILES/BrunoDaphnie_justification_week3.pdf)  
-* [Group Number 5 Plan Content](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/FILES/Groupnumber5_plan_content.pdf)  
-* [Group Number 5 Security Plan – Week 4](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/FILES/Groupnumber5_security_plan_week_4.pdf)  
+* [Security Awareness Training Policy](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/FILES/BrunoDaphnie_Security%20Awareness%20Training%20Policy.pdf)  
+* [Week 2 & 3 Justification](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/FILES/BrunoDaphnie_justification_week3.pdf)  
+* [Group 5 – Plan Content](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/FILES/Groupnumber5_plan_content.pdf)  
+* [Group 5 – Security Plan Week 4](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/FILES/Groupnumber5_security_plan_week_4.pdf)  
 
 ---
 
