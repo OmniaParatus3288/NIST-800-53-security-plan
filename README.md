@@ -48,7 +48,7 @@ In this course, I:
 * Built upon Week 1 concepts to select Identity Access Controls for a fictitious company.
 * Created Identity Access Management policies based on these controls and updated the Security Plan.
 * **Developed:**
-    * **[Access Control Policy (AC-01)](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_AC-01_Policy_and_Procedures.pdf)**
+    * **[Access Control Policy (AC-01)](https://github.com/OmniaParatus3288/Project-Portfolio-IV/FILES/BrunoDaphnie_AC-01_Policy_and_Procedures.pdf)**
     * **[Account Management Policy (AC-02)](https://github.com/OmniaParatus3288/Project-Portfolio-IV/blob/main/BrunoDaphnie_AC-02_Account_Management.pdf)**
 * **Documented:**
     * Roles, responsibilities, and least privilege principles.
