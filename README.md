@@ -1,4 +1,4 @@
-# Project & Portfolio IV: Cybersecurity
+# Project & Portfolio IV: NIST-800-53-security-plan
 
 Welcome to my Project & Portfolio IV repository! This project documents my work at Full Sail University, where I focused on building a holistic cybersecurity program. Throughout this project, I developed comprehensive security policies, procedures, and controls aligned with NIST 800-53 standards and industry best practices.
 
